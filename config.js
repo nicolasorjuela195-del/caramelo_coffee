@@ -3,5 +3,5 @@
 //   - "Project URL"      -> SUPABASE_URL
 //   - "anon public" key  -> SUPABASE_ANON_KEY
 
-const SUPABASE_URL = "PEGA_AQUI_TU_PROJECT_URL";
-const SUPABASE_ANON_KEY = "PEGA_AQUI_TU_ANON_PUBLIC_KEY";
+const SUPABASE_URL = "https://ecrzjcwxqreonpfnxjnd.supabase.co";
+const SUPABASE_ANON_KEY = "sb_publishable_ItCcDm3Nqj_G51o9o0BZmg_dB5k-TRK";
